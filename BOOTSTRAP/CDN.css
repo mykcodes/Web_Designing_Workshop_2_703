@@ -1,0 +1,7 @@
+.btn-primary {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    margin: 40px;
+    background: linear-gradient(135deg, rgb(59, 59, 255), rgb(255, 14, 14));
+}
